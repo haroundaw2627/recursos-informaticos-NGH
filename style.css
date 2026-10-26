@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Recursos Informáticos</title>
+    <!-- Aquí enlazamos los estilos de la tarea anterior -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Título principal -->
+    <h1>Mis Recursos Informáticos</h1>
+
+    <!-- Sección de recursos -->
+    <section>
+        <h2>Páginas recomendadas</h2>
+        <ul>
+            <li><a href="https://github.com" target="_blank">GitHub</a> - Para guardar código y trabajar en equipo.</li>
+            <li><a href="https://developer.mozilla.org" target="_blank">MDN Web Docs</a> - Para aprender HTML y CSS fácilmente.</li>
+        </ul>
+    </section>
+
+</body>
+</html>
